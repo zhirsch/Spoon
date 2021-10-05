@@ -1,0 +1,11 @@
+## Interface: 20501
+## Title: Spoon
+## Notes: Consumables Macro Generator
+## Author: Moldyorange
+## Version: 2.5.1.0
+## SavedVariablesPerCharacter: SpoonDB
+
+embeds.xml
+
+Conditions.lua
+Spoon.lua
